@@ -97,7 +97,7 @@ Module Program
     End Sub
     Private Sub kati()
         Dim heko, heko2 As String
-
+        'CallByName anevei
     End Sub
 
 End Module
