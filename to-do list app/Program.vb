@@ -96,6 +96,7 @@ Module Program
         End Try
     End Sub
     Private Sub kati()
+        Dim heko, heko2 As String
 
     End Sub
 
